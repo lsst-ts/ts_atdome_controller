@@ -3,7 +3,7 @@
 Auxtel Dome Control Unit (DCU) version 3.0
 
 ## Documentation
-See [documentation](docs/Dome Manual.pdf) for technical details.
+See [documentation](docs/Dome%20Manual.pdf) for technical details.
 
 ## Changelog
 
