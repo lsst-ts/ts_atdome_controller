@@ -1,0 +1,27 @@
+[Main Box 9042]
+Main Box 9042 = "139.229.170.56"
+
+[My Computer]
+My Computer = "192.168.107.48"
+
+[NI-cRIO-9032-Top Box]
+NI-cRIO-9032-Top Box = "10.0.0.86"
+
+[Old Main Box Chassis 9032]
+Old Main Box Chassis 9032 = "0.0.0.0"
+
+[Simple - Getting Started RT Target]
+Simple - Getting Started RT Target = "0.0.0.0"
+
+[Test cRIO]
+Test cRIO = "172.22.11.2"
+
+[Test cRIO-9024]
+Test cRIO-9024 = "139.229.3.169"
+
+[Top Box Chassis]
+Top Box Chassis = "192.168.1.44"
+
+[Tutorial - Getting Started RT Target]
+Tutorial - Getting Started RT Target = "0.0.0.0"
+

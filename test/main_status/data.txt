@@ -1,0 +1,27 @@
+MAIN AJAR 000
+DROP AJAR 000
+[OFF] 00
+POSN 00.00
+-- 000
+Dome not homed
+Emergency Stop Active: 0
+Top Comm Link OK: 0
+Home Azimuth:  0.00
+High Speed (degrees): 0.00
+Coast (degrees): 0.00
+Tolerance (degrees): 0.00
+Encoder Counts per 360: 0
+Encoder Counts: 0
+Last Azimuth GoTo:  0.00
+Azimuth Move Timeout (secs): 300
+Rain-Snow enabled: 0
+Cloud Sensor enabled: 0
+Watchdog Reset Time: 600
+Dropout Timer: 5
+Reverse Delay: 5
+Main Door Encoder Closed: 0
+Main Door Encoder Opened: 0
+Dropout Encoder Closed: 0
+Dropout Encoder Opened: 0
+Door Move Timeout (secs): 10
+Dome has been homed: False
