@@ -1,6 +1,6 @@
 # Auxtel Dome Control Unit
 
-Auxtel Dome Control Unit (DCU) version 3.0
+Auxtel Dome Control Unit (DCU) version 3.0 for LabVIEW 2019 SP1.
 
 ## Documentation
 See [documentation](docs/Dome%20Manual.pdf) for technical details.
