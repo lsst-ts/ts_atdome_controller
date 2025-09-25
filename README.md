@@ -10,6 +10,11 @@ See [documentation](docs/Dome%20Manual.pdf) for technical details.
 ### [3.0] - 2025-05-06
 - Tested and operative version. 
 
+### [3.1] - 2025-25-09
+- Separate VI compilation in LabVIEW configuration.
+- Add local and remote antenna telnet methods.
+- Update documentation. 
+
 ## Author
 **Braulio Cancino Vera**\
 NOIRLab\
